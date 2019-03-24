@@ -1,5 +1,6 @@
-# Displaying information about Star Wars on React and TypeScript.
-API from https://swapi.co/
+# StarWars
+Displaying information about Star Wars on React and TypeScript.
+The Star Wars API from https://swapi.co/
 
 ### Installation
 Install the dependencies and start the server.
