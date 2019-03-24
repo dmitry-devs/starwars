@@ -1,0 +1,11 @@
+.table {
+    width: 100%;
+    overflow-x: auto;
+    &__content {
+        min-width: 1200px;
+    }
+    &__cell-content{
+        display: flex;
+        align-items: center;
+    }
+}

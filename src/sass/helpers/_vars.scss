@@ -1,0 +1,15 @@
+$width-mobile: 270px;
+$width-tablet: 768px;
+$width-desktop: 1180px;
+
+$breakpoints: (
+    'small': (
+        max-width: $width-tablet,
+    ),
+    'medium': (
+        min-width: $width-tablet,
+    ),
+    'large': (
+        min-width: $width-desktop,
+    ),
+);
